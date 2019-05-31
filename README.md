@@ -14,5 +14,5 @@ To provide users the ability to input longitude and latidude coordinates in orde
 The user can search for a specific location on a map by providing the longitude and latidude coordinates of a location. A marker will be placed to represent the exact location of the provided coordinates. Tested and proven to be accurate.  
 
 ### Screen Shots 
-  ![TheMovieDBApp!](https://github.com/RYin4/TheMovieDBWebApp/blob/master/screenshot1.png "TheMovieDBApp")
-    ![TheMovieDBApp!](https://github.com/RYin4/TheMovieDBWebApp/blob/master/screenshot2.png "TheMovieDBApp")
+  ![TheMovieDBApp!](https://github.com/RYin4/MyLocation/blob/master/src/assets/ScreenShot1.png)
+    ![TheMovieDBApp!](https://github.com/RYin4/MyLocation/blob/master/src/assets/ScreenShot2.png)
