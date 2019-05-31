@@ -1,18 +1,18 @@
-# my-map
+# The My Location Web Application
 
-> A Vue.js project
+### Purpose 
+To provide users the ability to input longitude and latidude coordinates in order to visually see the location on a map. 
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+### Features 
+- **Google Maps API** - Provides a visual map and marker.  
+- **Vue.js** - Front-end interface of a single page component. 
+- **JavaScript** - Functions.
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
-```
+### Implementation
+The user can search for a specific location on a map by providing the longitude and latidude coordinates of a location. A marker will be placed to represent the exact location of the provided coordinates. Tested and proven to be accurate.  
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### Screen Shots 
+  ![TheMovieDBApp!](https://github.com/RYin4/TheMovieDBWebApp/blob/master/screenshot1.png "TheMovieDBApp")
+    ![TheMovieDBApp!](https://github.com/RYin4/TheMovieDBWebApp/blob/master/screenshot2.png "TheMovieDBApp")
